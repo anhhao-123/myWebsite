@@ -1,0 +1,27 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+#one{
+    color: red;
+    
+}
+
+.two{
+color: blue;
+}
+
+.three{
+    color: violet;
+}
+
+#one:hover{
+    color: blue;
+}
+.title{
+    margin-left: 400px;
+
+}
+.title-1{
+    margin-left: 250px;
+}
